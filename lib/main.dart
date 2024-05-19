@@ -14,7 +14,7 @@ void main() async {
   runApp(const MyApp());
 }
 
-//wjdjkmkdmfkddkmvk
+//wjdjkmkdmfkddkmvk  nonsense talk
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
