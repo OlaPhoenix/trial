@@ -14,7 +14,7 @@ void main() async {
   runApp(const MyApp());
 }
 
-//wjdjkmkdmfkddkmvk  nonsense talk
+//wjdjkmkdmfkddkmvk  nonsense talk (dropdown)
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
